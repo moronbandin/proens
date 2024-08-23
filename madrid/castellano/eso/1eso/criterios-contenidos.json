@@ -1,0 +1,100 @@
+{
+    "1ESO": {
+        "Criterios_de_evaluación": {
+            "Competencia_específica_1": {
+                "1.1": "Reconocer las lenguas de España, con atención especial a las lenguas y variedades dialectales del propio territorio, localizando en un mapa las distintas lenguas de España.",
+                "1.2": "Identificar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la riqueza cultural, lingüística y dialectal, a partir de la observación de la diversidad lingüística del entorno."
+            },
+            "Competencia_específica_2": {
+                "2.1": "Comprender el sentido global, la estructura, la información más relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales sencillos de diferentes ámbitos.",
+                "2.2": "Aprender a hablar en público, en situaciones formales e informales, de forma individual o en grupo, respetando las normas de cortesía que deben presidir los intercambios orales y ajustándose al turno de palabra."
+            },
+            "Competencia_específica_3": {
+                "3.1": "Realizar narraciones orales sencillas con diferente grado de planificación, organizando el contenido y elaborando guiones previos, seleccionando la idea principal, así como las secundarias, sobre temas de interés personal, social y educativo.",
+                "3.2": "Participar en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado de manera activa y adecuada, con actitudes de escucha activa y haciendo uso de estrategias de cooperación conversacional y cortesía lingüística."
+            },
+            "Competencia_específica_4": {
+                "4.1": "Comprender el sentido global, la estructura, la información más relevante y la intención del emisor en textos escritos y multimodales sencillos de diferentes ámbitos que respondan a diferentes propósitos de lectura, realizando las inferencias necesarias."
+            },
+            "Competencia_específica_5": {
+                "5.1": "Planificar la redacción de textos escritos y multimodales sencillos, atendiendo a la situación comunicativa, al destinatario, al propósito y al canal; redactar borradores y revisarlos para aclarar problemas con el contenido (ideas y estructura) o la forma (puntuación, ortografía, gramática y presentación), con ayuda del diálogo entre iguales e instrumentos de consulta, y presentar un texto final coherente, cohesionado y con el registro adecuado.",
+                "5.2": "Escribir textos propios del ámbito académico y familiar y textos dialogados, con corrección gramatical y ortográfica y propiedad léxica.",
+                "5.3": "Resumir textos breves, diferenciando la idea principal de las secundarias, globalizando la información e integrándola en oraciones que se relacionen lógica y semánticamente."
+            },
+            "Competencia_específica_6": {
+                "6.1": "Localizar y seleccionar la información de manera guiada procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia en función de los objetivos de lectura; reflexionar sobre cómo evaluarla, forma de usarla y trasmitirla.",
+                "6.2": "Adoptar hábitos de uso crítico, seguro, sostenible y saludable de las tecnologías digitales en relación a la búsqueda y la comunicación de la información."
+            },
+            "Competencia_específica_7": {
+                "7.1": "Elegir y leer a partir de preselecciones de textos de la literatura española y universal y de la literatura juvenil, en soporte papel y en soporte digital, guiándose por los propios gustos, intereses y necesidades y dejando constancia del propio itinerario lector y de la experiencia de lectura.",
+                "7.2": "Mostrar, a través de la lectura autónoma, el gusto y el hábito por la lectura en todos sus aspectos, como fuente de placer, de conocimiento y de acceso a otros mundos diferentes a los nuestros, reales o fantásticos.",
+                "7.3": "Compartir la experiencia de la lectura en soportes diversos relacionando el sentido de la obra con la propia experiencia biográfica y lectora."
+            },
+            "Competencia_específica_8": {
+                "8.1": "Conocer las características distintivas del texto literario y los recursos literarios.",
+                "8.2": "Establecer, de manera guiada, vínculos argumentados entre los textos leídos y otros textos escritos, orales o multimodales, así como con otras manifestaciones artísticas y culturales, en función de temas, tópicos, estructuras, lenguaje y valores éticos y estéticos.",
+                "8.3": "Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se empleen las convenciones formales de los diversos géneros y estilos literarios."
+            },
+            "Competencia_específica_9": {
+                "9.1": "Revisar los textos propios de manera guiada y hacer propuestas de mejora argumentando los cambios, e identificar y subsanar algunos problemas de comprensión lectora utilizando los conocimientos explícitos sobre la lengua y su uso.",
+                "9.2": "Identificar y distinguir las categorías gramaticales de las palabras variables e invariables.",
+                "9.3": "Comprender las relaciones de igualdad y contrariedad que se establecen entre las palabras y su uso en el discurso oral y escrito.",
+                "9.4": "Identificar los elementos constitutivos de la oración simple, diferenciando sujeto y predicado.",
+                "9.5": "Formular generalizaciones sobre aspectos básicos del funcionamiento de la lengua a partir de la observación, la comparación y la transformación de enunciados.",
+                "9.6": "Identificar los procesos de formación de palabras."
+            },
+            "Competencia_específica_10": {
+                "10.1": "Identificar, desterrar y sustituir los usos discriminatorios de la lengua a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursivos utilizados, así como de los elementos no verbales que rigen la comunicación entre personas.",
+                "10.2": "Utilizar estrategias para la resolución dialogada de los conflictos y la búsqueda de consensos tanto en el ámbito personal como educativo y social."
+            }
+        },
+        "Contenidos": {
+            "1": {
+                "titulo": "Las lenguas y sus hablantes",
+                "subcontenidos": [
+                    "Observación de la propia biografía lingüística y de la diversidad lingüística del centro.",
+                    "Identificación de las diferentes lenguas habladas en el centro escolar y explicación de la igualdad de todas las lenguas para evitar los prejuicios lingüísticos.",
+                    "Reconocimiento de las lenguas de España: origen, distribución geográfica y nociones básicas.",
+                    "Conocimiento del plurilingüismo en España.",
+                    "Estrategias de identificación de prejuicios y estereotipos lingüísticos y exploración de formas de evitarlos."
+                ]
+            },
+            "2": {
+                "titulo": "Comunicación",
+                "subcontenidos": [
+                    "Iniciación a las estrategias de producción y comprensión de textos orales, escritos y multimodales de diferentes ámbitos: personal, escolar y social.",
+                    "Identificación de los componentes del hecho comunicativo. Introducción a las funciones del lenguaje.",
+                    "Análisis de las clases de textos según su intencionalidad y las secuencias textuales básicas: narrativas, descriptivas, dialogadas y prescriptivas.",
+                    "Géneros discursivos propios del ámbito personal, educativo y social, incluyendo la conversación, cartas, correos electrónicos, noticias periodísticas, etc.",
+                    "Explicación de textos multimodales: página web, presentación PowerPoint y anuncios publicitarios.",
+                    "Interacción oral y escrita de carácter informal: estrategias verbales y no verbales, cortesía lingüística, escucha activa, asertividad y resolución dialogada de los conflictos.",
+                    "Producción escrita: planificación, textualización, revisión y edición en diferentes soportes de textos organizativos como esquemas, resúmenes y sinopsis.",
+                    "Aplicación guiada de la corrección lingüística y revisión ortográfica y gramatical de los textos, uso de signos de puntuación, mayúsculas y minúsculas."
+                ]
+            },
+            "3": {
+                "titulo": "Educación literaria",
+                "subcontenidos": [
+                    "Lectura autónoma de textos variados y obras completas de la literatura española y universal, y reflexión sobre los textos leídos.",
+                    "Participación guiada en actos culturales vinculados con el circuito literario y lector.",
+                    "Expresión de la experiencia lectora y apropiación de los textos leídos a través de distintas formas de recreación.",
+                    "Lectura guiada de obras completas y fragmentos relevantes de la literatura juvenil contemporánea y del patrimonio literario universal.",
+                    "Creación de textos personales de intención literaria, en prosa y en verso, a partir de la apropiación de las convenciones del lenguaje literario.",
+                    "Introducción a los géneros literarios a través de la lectura y explicación de fragmentos significativos o de textos completos."
+                ]
+            },
+            "4": {
+                "titulo": "Reflexión sobre la lengua",
+                "subcontenidos": [
+                    "Diferencias contextuales y formales entre lengua oral y lengua escrita.",
+                    "Aproximación a la lengua como sistema: fonético-fonológico, morfosintáctico, léxico-semántico y pragmático.",
+                    "Identificación y caracterización de las categorías gramaticales: palabras variables e invariables.",
+                    "Distinción entre la forma y la función de las palabras: relaciones gramaticales y funciones sintácticas.",
+                    "Caracterización y reconocimiento de oraciones simples y sus constituyentes: sujeto y predicado.",
+                    "Procedimientos de adquisición y formación de palabras: lexemas, morfemas flexivos y derivativos.",
+                    "Reflexión sobre las relaciones semánticas entre palabras: sinonimia, antonimia, monosemia y polisemia."
+                ]
+            }
+        }
+    }
+}

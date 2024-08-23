@@ -1,0 +1,133 @@
+{
+    "4ESO": {
+        "Criterios_de_evaluación": {
+            "Competencia_específica_1": {
+                "1.1": "Conocer el marco geográfico en el que Roma ejerció su dominio e influencia política y cultural en distintos períodos de su historia.",
+                "1.2": "Conocer los orígenes de las lenguas de Europa y, en especial, de España.",
+                "1.3": "Identificar los periodos de la historia de Roma, los principales acontecimientos y personajes históricos y legendarios, sabiendo distinguir unos de otros.",
+                "1.4": "Identificar la evolución de los aspectos de la civilización romana, de su organización política, social, familiar, militar y religiosa en su contexto histórico, relacionando los datos con referentes actuales y aplicando los conocimientos adquiridos.",
+                "1.5": "Estudiar el influjo de la Antigüedad clásica en la cultura occidental.",
+                "1.6": "Valorar los modos de vida, costumbres y actitudes de la sociedad romana en comparación con los de nuestras sociedades a partir del contenido de fuentes latinas en diferentes soportes."
+            },
+            "Competencia_específica_2": {
+                "2.1": "Conocer el sistema fonológico del latín, así como el alfabeto latino, su origen y evolución.",
+                "2.2": "Conocer y aplicar las normas básicas de pronunciación del latín clásico.",
+                "2.3": "Identificar los distintos formantes de las palabras en latín y en español.",
+                "2.4": "Conocer los prefijos y sufijos latinos más frecuentes y su significado, identificándolos en palabras del español y de otras lenguas.",
+                "2.5": "Distinguir las clases de palabras, sus diferencias formales y funciones sintácticas.",
+                "2.6": "Conocer cómo se enuncian los distintos tipos de palabras del latín, distinguiendo los tipos de palabras a partir de su enunciado.",
+                "2.7": "Conocer la declinación de los nombres, adjetivos y pronombres personales del latín.",
+                "2.8": "Conocer la conjugación del verbo sum y de los verbos regulares en sus formas personales e impersonales más frecuentes.",
+                "2.9": "Conocer las principales funciones que desempeñan en la oración los casos latinos.",
+                "2.10": "Reconocer los tipos de oración simple.",
+                "2.11": "Conocer los medios para expresar la coordinación copulativa, disyuntiva y adversativa en latín.",
+                "2.12": "Identificar las construcciones concertadas de infinitivo y de participio de perfecto.",
+                "2.13": "Conocer la evolución fonética, morfológica y sintáctica del latín al español y, en menor medida, a otras lenguas romances.",
+                "2.14": "Valorar la diversidad lingüística a la que da origen el latín, identificando y explicando semejanzas y diferencias entre los elementos lingüísticos del entorno, relacionándolos con los de la propia cultura.",
+                "2.15": "Inferir significados de términos latinos aplicando los conocimientos léxicos y fonéticos de otras lenguas del repertorio individual propio.",
+                "2.16": "Ampliar el caudal léxico y mejorar la expresión oral y escrita, incorporando latinismos y locuciones usuales de origen latino de manera coherente.",
+                "2.17": "Producir definiciones etimológicas de términos cotidianos, científicos y técnicos, reconociendo los elementos latinos en diferentes contextos lingüísticos y estableciendo, si procede, la relación semántica entre un término patrimonial y un cultismo."
+            },
+            "Competencia_específica_3": {
+                "3.1": "Explicar de forma oral, escrita o multimodal el carácter clásico y humanista de las diversas manifestaciones literarias y artísticas de la civilización latina utilizando un vocabulario correcto y una expresión adecuada.",
+                "3.2": "Comprender el sentido y las ideas principales y secundarias de un texto, contextualizándolo e identificando las referencias históricas, sociales, políticas o religiosas que aparecen en él, y sirviéndose de conocimientos sobre personajes, acontecimientos históricos, instituciones y formas de vida ya estudiados.",
+                "3.3": "Interpretar el contenido de textos latinos de dificultad adecuada, atendiendo la situación en la que se produjeron, conectándolos con la experiencia propia y valorando cómo contribuyen a entender los modos de vida, costumbres y actitudes de nuestra sociedad."
+            },
+            "Competencia_específica_4": {
+                "4.1": "Analizar los aspectos morfológicos, sintácticos y léxicos elementales de la lengua latina, identificándolos y comparándolos con los de la lengua familiar.",
+                "4.2": "Traducir al español, textos breves y sencillos con términos adecuados y expresión correcta, justificando la traducción y manifestando la correspondencia entre el análisis y la versión realizada.",
+                "4.3": "Producir mediante retroversión oraciones simples utilizando las estructuras propias de la lengua latina.",
+                "4.4": "Saber consultar el diccionario latino-español, conociendo cómo incluyen los diccionarios las distintas clases de palabras."
+            },
+            "Competencia_específica_5": {
+                "5.1": "Conocer la transmisión de los textos antiguos desde la Antigüedad a nuestros días en diferentes tipos de soporte.",
+                "5.2": "Conocer y explicar los elementos, personajes, autores y obras literarias de la civilización latina, especialmente los relacionados con la historia de Roma y la mitología clásica, identificándolos como fuente de inspiración de manifestaciones literarias y artísticas.",
+                "5.3": "Reconocer las huellas de la romanización en el patrimonio cultural y arqueológico del entorno mundial, y en especial, de España, identificando los procesos de preservación, conservación y restauración como un aspecto fundamental para el cuidado de su legado.",
+                "5.4": "Exponer de forma oral o escrita las conclusiones obtenidas a partir de la investigación, individual o colectiva, del legado material e inmaterial de la civilización romana y su pervivencia en el presente a través de soportes analógicos y digitales, seleccionando información, contrastándola y organizándola a partir de criterios de validez, calidad y fiabilidad."
+            }
+        },
+        "Contenidos": {
+            "1": {
+                "titulo": "El presente de la civilización latina",
+                "subcontenidos": [
+                    "Aspectos geográficos, históricos, culturales, políticos y lingüísticos de la civilización latina presentes en la noción actual de Europa y de su cultura.",
+                    "La civilización romana. Su importancia y pervivencia en la identidad europea actual y en la cultura occidental.",
+                    "El marco geográfico.",
+                    "Períodos de su historia.",
+                    "Organización política y social.",
+                    "La familia romana.",
+                    "Evolución del papel de la mujer en la sociedad romana. Grandes mujeres en la historia de Roma.",
+                    "El derecho.",
+                    "La religión, la mitología y otros aspectos culturales.",
+                    "La pervivencia del latín en las lenguas modernas.",
+                    "Las lenguas romances.",
+                    "Influencia del latín en lenguas no romances.",
+                    "Estrategias y herramientas para relacionar el pasado y el presente a partir de los conocimientos adquiridos.",
+                    "Obras fundamentales de la literatura latina: Contexto histórico en el que se crearon.",
+                    "Su transmisión y pervivencia en nuestra cultura a través de la tradición clásica.",
+                    "Importancia de la civilización romana en la configuración, reconocimiento y análisis crítico de nuestra identidad como sociedad.",
+                    "El léxico latino jurídico, político, religioso, humanístico… Evolución de los conceptos fundamentales de la civilización latina (civis, populus, sacer, homo, etc.) y de su significado en consonancia con los cambios acontecidos desde la antigua Roma hasta la actualidad.",
+                    "Métodos para la comprensión, interpretación y comentario de textos latinos a la luz de los conocimientos adquiridos sobre la lengua latina y la cultura clásica en relación con la experiencia propia.",
+                    "La condición humana en los textos clásicos latinos. Análisis de las semejanzas y diferencias.",
+                    "Importancia de los textos clásicos latinos como testimonio de aquellos aspectos constitutivos de nuestra condición humana.",
+                    "El papel del humanismo y su presencia en la sociedad actual."
+                ]
+            },
+            "2": {
+                "titulo": "Latín y plurilingüismo",
+                "subcontenidos": [
+                    "El sistema fonológico latino.",
+                    "El abecedario y la pronunciación del latín. Su permanencia e influencia en las lenguas del repertorio lingüístico individual del alumnado: lenguas romances y otras lenguas modernas.",
+                    "Explicación de los cambios fonéticos más frecuentes desde el latín culto y el latín vulgar a la lengua castellana y a otras lenguas romances.",
+                    "Identificación de palabras con lexemas, sufijos y prefijos de origen latino en textos escritos en las lenguas de enseñanza.",
+                    "Procedimientos de composición y derivación latinos en la elaboración de familias de palabras en latín y español.",
+                    "Palabras procedentes del latín: iniciación al significado etimológico y cambio semántico de las palabras.",
+                    "Métodos fundamentales para la inferencia del significado de palabras menos frecuentes, del léxico especializado y de nueva aparición a partir de la identificación de formantes latinos.",
+                    "Latinismos y locuciones latinas más frecuentes.",
+                    "El léxico latino de raíz común entre las distintas lenguas del repertorio lingüístico individual.",
+                    "Técnicas de reconocimiento, organización e incorporación por el alumno a sus producciones verbales: escritas, orales o multimodales.",
+                    "Las lenguas indoeuropeas y lenguas romances. Comparación entre lenguas a partir de su origen y parentescos.",
+                    "Importancia del latín como herramienta de mejora de la expresión escrita y oral en las distintas lenguas del repertorio lingüístico individual.",
+                    "Recursos y herramientas analógicas y digitales para el aprendizaje de la lengua latina y estrategias que lo propician.",
+                    "Aportación del aprendizaje del latín al aprendizaje de otras lenguas. Reflexión de la lengua latina como vínculo e impulso para el aprendizaje de otras lenguas."
+                ]
+            },
+            "3": {
+                "titulo": "El texto latino y la traducción",
+                "subcontenidos": [
+                    "Funciones sintácticas y funciones semánticas. Procedimientos que emplean diversas lenguas para marcarlas.",
+                    "Las clases de palabras.",
+                    "Concepto de declinación. Los casos latinos y sus principales valores sintácticos.",
+                    "La flexión nominal: Los casos latinos y sus principales valores sintácticos.",
+                    "La declinación de los nombres latinos.",
+                    "El adjetivo y sus grados: comparativo de igualdad, de superioridad y de inferioridad y superlativo.",
+                    "La flexión pronominal: Los pronombres personales.",
+                    "La flexión verbal: La expresión en latín del número, la persona, la voz, el tiempo y el modo.",
+                    "El enunciado de los verbos latinos.",
+                    "La flexión de los verbos regulares: los modos indicativo e imperativo en voz activa, el modo indicativo en voz pasiva, el infinitivo de presente y el participio de perfecto.",
+                    "El verbo sum: modos indicativo e imperativo y el infinitivo de presente.",
+                    "La concordancia y el orden de palabras en latín.",
+                    "Estructuras oracionales básicas. La oración simple: oraciones atributivas y predicativas. Introducción a las oraciones de infinitivo.",
+                    "La coordinación copulativa, disyuntiva y adversativa.",
+                    "Métodos fundamentales para la identificación, análisis y traducción de unidades lingüísticas latinas (léxico, morfosintaxis) a partir del conocimiento del latín y la comparación entre lenguas y variedades que conforman el repertorio lingüístico personal.",
+                    "Recursos para el aprendizaje y estrategias básicas de adquisición de lenguas, tales como el Portfolio Europeo de las Lenguas, glosarios o diccionarios. Iniciación en el empleo del diccionario latino-español y español-latino.",
+                    "Reflexión y justificación de la traducción ofrecida.",
+                    "Iniciación a las técnicas de traducción y retroversión a partir del análisis morfosintáctico y de la compatibilidad semántica de oraciones sencillas."
+                ]
+            },
+            "4": {
+                "titulo": "Legado y patrimonio",
+                "subcontenidos": [
+                    "Pervivencia del legado material de la cultura y la civilización romanas: sitios arqueológicos, arte, ingeniería civil, inscripciones, construcciones monumentales…",
+                    "Pervivencia del legado inmaterial de la cultura y la civilización romanas: mitología clásica, instituciones políticas y sociales, oratoria, derecho, rituales y celebraciones, ocio y espectáculos...",
+                    "La transmisión textual y los soportes de escritura.",
+                    "Características del patrimonio cultural romano y del proceso de romanización.",
+                    "Interés e iniciativa en participar en procesos destinados al conocimiento, conservación, preservación y difusión del patrimonio arqueológico del entorno de origen romano, con especial atención al conservado en España.",
+                    "Herramientas analógicas y digitales para la comprensión, producción y coproducción oral, escrita y multimodal.",
+                    "Respeto de la propiedad intelectual y derechos de autor sobre las fuentes consultadas y los contenidos utilizados.",
+                    "Estrategias y herramientas, analógicas y digitales, para evaluación."
+                ]
+            }
+        }
+    }
+}

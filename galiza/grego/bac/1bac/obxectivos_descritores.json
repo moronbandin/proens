@@ -1,0 +1,8 @@
+{
+  "OBX1": ["CCL1", "CCL2", "CP2", "STEM1", "STEM2"],
+  "OBX2": ["CP2", "CP3", "STEM1", "CPSAA5"],
+  "OBX3": ["CCL4", "CCEC1", "CCEC2"],
+  "OBX4": ["CCL3", "CP3", "CD1", "CPSAA3.1", "CC1"],
+  "OBX5": ["CCL3", "CD2", "CC1", "CC4", "CE1", "CCEC1", "CCEC2"]
+}
+

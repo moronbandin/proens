@@ -1,0 +1,1 @@
+![Image](../../../../biblioteca/mapas/mapa_linguistico_peninsula.svg)
